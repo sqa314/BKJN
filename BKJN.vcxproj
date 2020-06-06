@@ -142,7 +142,8 @@
     <ClCompile Include="bkjn.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="input.in" />
+    <None Include="in.in" />
+    <None Include="out.out" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
